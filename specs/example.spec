@@ -9,3 +9,4 @@ To execute this specification, use
 * Goto URL "url"
 * Input email "email"
 * Page contains "contents"
+
