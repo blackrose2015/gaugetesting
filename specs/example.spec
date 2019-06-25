@@ -6,7 +6,6 @@ To execute this specification, use
 
 ## Unsuccessfully login
     
-* Goto URL "url"
+* Goto website
 * Input email "email"
 * Page contains "contents"
-
