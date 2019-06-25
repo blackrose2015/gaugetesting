@@ -6,6 +6,6 @@ To execute this specification, use
 
 ## Unsuccessfully login
     
-* Goto URL "https://app.wirelessanalytics.com/login"
-* Input email "me@user.com"
-* Page contains "Company Not Found"
+* Goto URL "url"
+* Input email "email"
+* Page contains "contents"
