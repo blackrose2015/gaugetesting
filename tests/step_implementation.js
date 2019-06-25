@@ -19,9 +19,9 @@ step("Page contains <content>", async (content) => {
 step("Input email <email>", async function(email) {
     await focus(inputField({'id': 'email'}));
     await write(email);
-    await press('Enter');	
+    await press('Enter');	   
 });
 
-step("Goto URL <url>", async function(url) {
-    await goto(url);	
+step("Goto website", async function() {
+	await goto(url);	
 });
