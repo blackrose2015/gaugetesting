@@ -23,5 +23,5 @@ step("Input email <email>", async function(email) {
 });
 
 step("Goto website", async function() {
-	await goto(url);	
+	await goto('https://app.wirelessanalytics.com/login');	
 });

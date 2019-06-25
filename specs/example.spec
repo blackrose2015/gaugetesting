@@ -7,5 +7,5 @@ To execute this specification, use
 ## Unsuccessfully login
     
 * Goto website
-* Input email "email"
-* Page contains "contents"
+* Input email "me@user.com"
+* Page contains "Company Not Found"
