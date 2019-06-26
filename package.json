@@ -6,6 +6,7 @@
     "test": "gauge run specs --env $URL"
   },
   "dependencies": {
+    "@getgauge/cli" : "latest",
     "npm"  : "latest",
     "taiko": "latest"
   }
